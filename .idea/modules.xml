@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Beta_final/.idea/Beta_final.iml" filepath="$PROJECT_DIR$/../Beta_final/.idea/Beta_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Assignment2/.idea/Bot_Project.iml" filepath="$PROJECT_DIR$/../Assignment2/.idea/Bot_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CHATBOTGUESSING GAME/.idea/CHATBOTGUESSING GAME.iml" filepath="$PROJECT_DIR$/../CHATBOTGUESSING GAME/.idea/CHATBOTGUESSING GAME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalProject.iml" filepath="$PROJECT_DIR$/.idea/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jh_test/.idea/jh_test.iml" filepath="$PROJECT_DIR$/../jh_test/.idea/jh_test.iml" />
+    </modules>
+  </component>
+</project>
